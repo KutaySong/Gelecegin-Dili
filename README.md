@@ -22,9 +22,11 @@ Aynştayn'ın dediği gibi "bir problemi çözmek için 1 saatim varsa 55 dakika
 
 Böyle yaparak aslında vaktin çoğunu sorunu betimlemeye ayırmış, vakit kaldıysa da kendi hayal edebildiği çözüm yöntemini izleyen dinleyicileri ile paylaşmış olur. İsterse görseller kullansın, isterse yazsın çizsin, isterse formülleri ve formüllerin bilgisayar koşumlarını kullansın, tüm bunlar birer gereçtir. Hedef ise karşısındaki insana tahayyülünü iletebilmektir. Üstelik karşısındakinin de kendini aynı kendi istediği gibi anlamasına gerek yoktur. Darwin'in dediği gibi "Varyasyon gürültü değildir". Farklı anlaşılsa bile belki bu farklılıktan yeni bir bakışaçısı, yeni bir çözüm ihtimali doğabilir.
 
+![Alt Text](resimler/resim2.jpeg?raw=true "EkranKesiti")
+
     -2-
 
-Bu dil nasıl olmalıdır?
+## Bu dil nasıl olmalıdır?
 
 
 
