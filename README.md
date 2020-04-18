@@ -34,37 +34,41 @@ Böyle yaparak aslında vaktin çoğunu sorunu betimlemeye ayırmış, vakit kal
     -4-
     -5-
     -6-
+  18 Nisan 2020 ::
+# KÖN KİTABI - Chapter 2 - DOKUZLANMAK
+
+Aklınıza büyük bir "9" getirin. Şimdi bunun kuyruğundan elimizi kaldırmadan çizmeye başlayalım. Sola doğru kavislenip spiral yaparak bir noktada kendimizle kesişeceğiz, o kesiştiğimiz noktada da durmayarak önceden çizdiğimiz yuvarlağın üzerinde hareket etmeye devam edelim. Belki 5 tur belki 10 tur çizelim. Sonuçta ne elde ettik: silik bir kuyruğu olan ve kalınca bir çemberi olan bir dokuz. Bu bir spiral değil, bu tam anlamıyla bir çember de sayılmaz. 
+
+Kağıdın üzerinde kalemi sürekli kaydırarak elde ettiğimiz 9 şeklini az sayıda kön kullanarak da elde edebiliriz. Kön derken nöron'u Türkçeleştirmek istiyorum. Mesela 20 tane kön'ününüz olsun ve bunlar birbirine rastgele bağlı olsun. Eğer hiçbiri dışarıda kalmayacak şekilde birebir bağlı olsalardı ilingesel (topolojik) bir çember oluşturduklarını düşünebilirdik. Bu dizilimde kulaktan kulağa oynamaya kalkacak olsalardı koca bir "0" oluşurdu ve herkes er geç kendi sesini duyardı. Ama rasgele bağladığımızda ve rasgele birisini uyardığımızda elde edeceğimiz büyük ihtimal bir "9" olacaktır.
+
+Rasgeleliği biraz daha açalım. 20 kön'den herbirinin geri kalan 19 kön'den birine göndermeç (akson) uzattığını varsayalım. Bir kön birden fazla könden göndermeç alabilir, ama kendisi bir tane kön'ün almacını seçer olsun. Bu ne demek sizin kulağınıza kim fısıldarsa fısıldasın, sizin bunu fısıldayacağınız kulağın belli olması demek. Bu durumda sinyali üreten kön'ün tekrarlarının (yankılarının) kendisine ulaşacağı garanti değildir. Muhtemelen içeride bir halkada hapis olacaktır. Bu halka işte "9"un çembersel olan kısmı.
+
+Ayrıyeten sinyal halkaya hapsolduktan sonra da ilerlemeye devam edecektir. Bu eski tip dönmeli saatler gibi kısıtlı bir ilerlemedir. Lakin halka'daki könlerin belli bir iç düzene ulaşabilmeleri için onlara süre kazandırabilir. Beyinde bazı süreçler yavaş gerçekleşir. Her kön bulunduğu "9" halkasındaki kararlı durumuna hemen razı gelmek istemeyebilir. Er geç bu halka bozulacaktır. Günlük hayatta bu bozulmaya unutma, dikkati dağılma diyebiliyoruz. Ama belli bir süre ile bu halkanın korunması yani içinde sinyalin tekrar tekrar dönmesi önemlidir. Bu kısıtlı süre zarfında sadece etkilenen halka burası olmaz. Başka halkalar da etkilenir. Zaten birleşik zeka bu halkalar arasındaki etkileşimlerdir. İniş çıkışlar, kurulumlar ve bozulumlardır.
+
+
+    -1-
+
+18 Nisan 2020 ::
+# YAK KİTABI - Chapter 2 - KENDİNİ KANDIRMA MEKANİZMASININ BOZULABİLİRLİĞİ
+
+Tıp konusundaki en büyük keşifler genelde hastalık durumlarında gözlenmektedir. Çalışan bir sistemin iç değişirlerini tahlil etmek zordur. Ama çalışmayan bir sistem tersine mühendislik için ideal ortamdır. Örneğin beynine kurşun girmiş birisi hafıza kurmak konusunda zorlanıyorsa, kurşunun beyinde parçaladığı kısım ile bu işlev arasında bir sebep-sonuç ilişkisi kurmak çok daha kolaydır. 
+
+Peki bir yüzü manyaklık bir yüzü çöküntü (depresyon) olan toplumun 1%'ini direk 20%'sini de eser formda veya dolaylı olarak etkileyen hastalığın sebebi beyinde hangi kısmın işlevini yerine getirememesidir?
+
+Bu sorunun fiziksel kıstırılabilir bir cevabı yok. Bipolar hastalarının genel olarak tüm sinapslara yansıyan etkileri olduğu için belli bir merkezi (lokusu) olmadığını düşünenler olduğu gibi,  beynin iç bölgesindeki (limbik sistem) hipokampüs, hipotalamus veya beynin yan bölgesindeki (temporal lob) kısımların kritik rol oynadığını düşünenler de vardır. Ben kendimize genel bir çerçeve çizebilmek adına soyut bir tabirle bu kısmı "Kendini Kandırma Mekanizması" olarak adlandıracağım.
+
+Peki sağlıklı bir insanda ne işe yarar bu kendini kandırma mekanizması? Ünlü bir düşünürün dediği gibi, "Hayat Yoksunluktur" (Buda: "Life is Suffering). Hayatta hemen bugün bir müjdeli haber alabileceğiniz gibi, çok kötü bir haber alabilecek olmanızın da ihtimali vardır. Tüm ruhiyatınızı derinden sarsabilecek böyle bir haber karşısında kapıp koyvermemek için ne yapabilirsiniz? Gündelik hayatta insan beyninin kendisini teselli mahiyetinde belli bir dozda damlattığı bir "organik" kendi üretimi olan bir uyuşturucu olduğunu varsayacağım.
+
+Bunun kimyasal içeriği konusunda spekülasyon yapmayacağım. Amerika yerlilerinin DMT dediği, Mevlana'nın ökseotu içmek ile tabir ettiği bu kimyasalın ne olduğu benim uyandırmaya çalıştığım kurgu için şu anda önemsiz. Bunu seratonin, dopamin, endorfin, oksitosin gibi bir sinirler arası kimyasal (nörotransmitter) olduğunu düşünmek şimdilik yeterli. Önemli nokta bunun günde ne kadar damlatılacağına karar vermek.
+
+Kuşkusuz beyinde bu kararı veren bir kısım mevcut. Fiziksel olarak bir merkeze toplanmış da olabilir veya beyin geneline dağılmış bir işlevde de olabilir. Eğer üretim sahipse bu "vana"nın vereceği karar ne kadarını bugün kullanıp ne kadarını geleceğe saklamak olduğudur. Tabi ki birçok faktör bu kararı etkiler. Bir kere bu kimyasalın üretimi bazı mevsimlerde veya günün bazı saatlerinde artabilir. Böyle zamanlarda daha sık salgılanmasında sıkıntı görülmez. Hatta bilakis istenen bir durumdur. Örneğin bahar ayları aşık olabilmek için güzel zamanlardır. Aşık olmak da üreyebilmek, zürriyeti devam ettirmek ve genlerini bir sonraki nesile geçirebilmek için gereklidir. Lakin bu sistemin tutarlı olması gerekmektedir.
+
+İşte bir vana diyerek somutlaştırmaya çalıştığım bu karmaşık sistem de insanda bozulabilmektedir. Bozulduğunda ne olmaktadır peki, bunu bir sonraki bölümde ele alacağım. Ama şunu söyleyeyim, vananın bozulmasının sebep olabileceği en az üç tip farklılık vardır. Birincisi insanın kendini kandırmakta daha mahir olmasıdır. Zaten hastalığın en dikkat çekici tarafı budur. Manyak diye tabir edilen bu kısım da insan adeta başkalaşmaktadır. Bir başka sonucu insanın kendini kandıramamasıdır. Çevresindeki tüm insanların kendilerini kandırmak için kullandığı reçetelere bile biçar kalınır. Üçüncü sonuç ise bu kandırma mekanizmasındaki gelgitlerdir. Sistem nasıl başedebileceğinden hepten yetersiz kalırsa günlük, hatta saatlik değişimler bile görülenilmektedir.
+
+    -2-
+    -3-
+    -4-
+    -5-
+    -6-
     -7-
     -8-
-    -9-
-    -10-
-    -11-
-    -12-
-    -13-
-    -14-
-    -15-
-    -16-
-    -17-
-    -18-
-    -19-
-    -20-
-    -21-
-    -22-
-    -23-
-    -24-
-    -25-
-    -26-
-    -27-
-    -28-
-    -29-
-    -30-
-    -31-
-    -32-
-    -33-
-    -34-
-    -35-
-    -36-
-    -37-
-    -38-
-    -39-
-    -40-
